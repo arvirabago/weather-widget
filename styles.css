@@ -1,0 +1,6 @@
+.powered-by {
+    position: absolute;
+    bottom: 0;
+    transform: translateX(-50%);
+    left: 50%;
+}
